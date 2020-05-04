@@ -33,7 +33,7 @@ body{
 
 #p1 {
   background-color: pink;
-  width:80px;
+  width:90px;
   border: 2px solid black;
   text-align: center;
   float:right;
@@ -42,7 +42,7 @@ body{
 #p2 {
   background-color: red;
   float:right;
-  width:80px;
+  width:90px;
   border: 2px solid black;
   text-align: center;
   color: white;
@@ -52,7 +52,7 @@ body{
 #p3 {
   background-color: yellow;
   float:right;
-  width:80px;
+  width:90px;
   border: 2px solid black;
   text-align: center;
   font-size: 1.25em;
